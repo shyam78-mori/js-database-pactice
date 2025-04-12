@@ -1,0 +1,9 @@
+For loop => Loop a block of code no of time
+
+For in loop => loop thought the KEYS of an object
+
+For of loop => loop thought the VALUE of an object
+
+While loop => loop a block based  on a special condition , while loop system crease kar sakti hai
+
+Do-while loop => While loop variable which runs latest inse
